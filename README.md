@@ -13,10 +13,10 @@ A dynamic and progressive web-based ToDo application that allows you to efficien
 
 ## Getting Started
 
-1. **Clone the repository:** Visit [this link](https://github.com/yourusername/ToDo-App) and click on the "Clone" button to get the source code.
+1. **Clone the repository:** Visit [this link](https://github.com/iamanishsrivastava/ToDo-App) and click on the "Clone" button to get the source code.
    or
    ```sh
-   git clone https://github.com/yourusername/ToDo-App.git
+   git clone https://github.com/iamanishsrivastava/ToDo-App.git
    ```
    
 2. Open the `index.html` file in your browser to start using the app.
