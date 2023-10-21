@@ -1,46 +1,59 @@
-# ToDo-App
+# ToDo App
 
-A dynamic and progressive web-based ToDo application that allows you to efficiently manage your tasks. Built with JavaScript, HTML, and CSS, this web app provides real-time updates, secure task management, and a user-friendly interface.
+## Description
+
+This is a simple web-based ToDo App that allows you to manage your tasks in different categories, including work, personal, shopping, and study. The app provides a user-friendly interface to add, track, and clear tasks within these categories.
 
 ## Features
 
-- **Real-time Updates:** Instantly add, edit, and organize tasks with real-time updates.
-- **User-Friendly:** A clean and intuitive user interface for efficient task management.
-- **Progressive Web App (PWA):** Enjoy offline access and enhanced performance.
-- **Security:** Input validation and user authentication ensure your data is secure.
-- **Data Management:** Seamlessly interact with your tasks using JavaScript and store them in your browser.
-- **Push Notifications:** Get reminders for pending tasks with push notifications.
+- Create tasks in different categories.
+- Mark tasks as completed or incomplete.
+- Clear tasks for each category.
+- Responsive design for various screen sizes.
 
-## Getting Started
+## Technologies Used
 
-1. **Clone the repository:** Visit [this link](https://github.com/iamanishsrivastava/ToDo-App) and click on the "Clone" button to get the source code.
-   or
-   ```sh
-   git clone https://github.com/iamanishsrivastava/ToDo-App.git
-   ```
-   
-2. Open the `index.html` file in your browser to start using the app.
+- HTML
+- CSS
+- JavaScript
+
+## Screenshots
+
+![image](https://github.com/iamanishsrivastava/ToDo-App/assets/83644811/7d79aafe-1b61-45e7-95c4-1e90220827f0)
+![image](https://github.com/iamanishsrivastava/ToDo-App/assets/83644811/17590312-2858-4297-a178-2f4b49885d9b)
+![image](https://github.com/iamanishsrivastava/ToDo-App/assets/83644811/3f2279b1-9db6-4f44-9f52-ede4bbecb92d)
+
+## Installation
+
+1. Clone the repository to your local machine.
+```
+git clone https://github.com/iamanishsrivastava/ToDo-App
+```
+
+2. Open the `index.html` file in your web browser to use the app.
 
 ## Usage
 
-- Add new tasks by clicking the "Add Task" button.
-- Edit or delete tasks by clicking on them.
-- Enjoy real-time updates and reminders for pending tasks.
+- Add tasks by typing in the input field and selecting a category.
+- Click the "Add" button to add a task.
+- Click on a task to mark it as completed, and click again to mark it as incomplete.
+- Click the "Clear All" button to clear all tasks in a specific category.
 
 ## Contributing
 
-If you'd like to contribute to this project, please follow these steps:
+Contributions are welcome. If you'd like to improve the app, please follow these steps:
 
 1. Fork the repository.
-2. Create a new branch for your feature: `git checkout -b feature-name`.
-3. Make your changes and commit them: `git commit -m 'Add some feature'`.
-4. Push to the branch: `git push origin feature-name`.
-5. Open a Pull Request.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes.
+4. Test your changes thoroughly.
+5. Submit a pull request.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
+## Contact
 
-- Inspired by a passion for programming and a desire to create a helpful task management tool.
+If you have any questions or suggestions, feel free to contact me at [anishamsri@email.com].
+
