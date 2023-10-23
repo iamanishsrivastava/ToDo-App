@@ -30,24 +30,67 @@ input[type="text"] {
   margin-right: 10px;
 }
 
-#category-select {
+#category-select, #deadline-input, #priority-select {
   text-align: center;
   background-color: #F1DDBF;
-  border-color: #0ddf14;
+  margin: 0;
+  border-color: #F1DDBF;
+}
+
+#deadline-input {
   border-bottom-left-radius: 25px;
   border-top-left-radius: 25px;
+  border-style: none;
+}
+
+#priority-select {
+  border-bottom-right-radius: 25px;
+  border-top-right-radius: 25px;
+  margin-right: 10px;
 }
 
 #add {
   padding: 10px 20px;
   background-color: #e1741a;
-  border-color: #0ddf14;
   text-align: left;
   color: #fff;
   border: none;
-  border-bottom-right-radius: 25px;
-  border-top-right-radius: 25px;
+  border-radius: 15px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 17px;
+  transition: background-color 0.2s, color 0.2s, transform 0.1s;
+}
+
+#add:hover {
+  background-color: greenyellow;
+  color: black;
   cursor: pointer;
+  transform: translate3d(0,4px,0);
+}
+
+
+.clearAll {
+  margin-left: 10px;
+  padding: 10px 10px;
+  background-color: #e1741a;
+  text-align: left;
+  color: #fff;
+  border: none;
+  border-radius: 15px;
+  cursor: pointer;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 15px;
+  transition: background-color 0.2s, color 0.2s, transform 0.1s;
+}
+
+.clearAll:hover {
+  background-color: red;
+  cursor: pointer;
+  transform: translate3d(0,4px,0);
+}
+
+.clearAll button{
+  margin-left: 10px;
 }
 
 #categories {
@@ -76,7 +119,7 @@ input[type="text"] {
 .head {
   display: flex;
   position:sticky;
-  top: 10px;
+  top: 5px;
   height: 40px;
   background-color: bisque;
   text-align: center;
@@ -109,6 +152,16 @@ input[type="text"] {
   color: #fff; 
   cursor: pointer;
   transform: translate3d(2px,2px,4px);
+}
+
+h3 {
+  position: sticky;
+  top: 44px; /* Adjust this value as needed */
+  font-size: 14px; /* Adjust the font size as needed */
+  font-weight: bold; /* Make the text bold */
+  color: #333; /* Set the text color to your preference */
+  margin: 0; /* Add spacing above and below the header */
+  background-color: antiquewhite;
 }
 
 
