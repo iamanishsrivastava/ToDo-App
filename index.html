@@ -13,13 +13,21 @@
   <main>
     <form id="todo-form">
       <input type="text" id="todo-input" placeholder="Enter a task">
+      <input type="date" id="deadline-input">
       <select id="category-select">
+        <option id="new-category-option" value="new_category"> Add More</option>
         <option value="work">Work</option>
         <option value="personal">Personal</option>
         <option value="shopping">Shopping</option>
         <option value="study">Study</option>
       </select>
+      <select id="priority-select">
+        <option value="low">Low</option>
+        <option value="medium">Medium</option>
+        <option value="high">High</option>
+      </select>
       <button id="add" type="submit">Add</button>
+      <button class="clearAll">Clear All</button>
     </form>
     <div id="categories">
         <div class="work-box">
@@ -51,13 +59,14 @@
           <ul id="study-list"></ul>
         </div>
     </div>
+    <!-- Container for new categories -->
+    <div class="new_categories"></div>
   </main>
   <script src="app.js"></script>
 </body>
 </html>
 
 <!-- 
-  justify - space evenly
   Option to change default of type-list
   Keep recently used type-list as the default
   Button to add more type-list 
