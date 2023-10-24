@@ -46,7 +46,8 @@ git clone https://github.com/iamanishsrivastava/ToDo-App
 - Add tasks by typing in the input field and selecting a category.
 - Click the "Add" button to add a task.
 - Click on a task to mark it as completed, and click again to mark it as incomplete.
-- Click the "Clear All" button to clear all tasks in a specific category.
+- Click the "Clear" button to clear all tasks in a specific category.
+- Click the "Clear All" button to clear all tasks in all the categories.
 
 ## Contributing
 
@@ -64,5 +65,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact me at [anishamsri@email.com].
+If you have any questions or suggestions, feel free to contact me at [anishamsri@email.com](mailto:anishamsri@gmail.com).
 
