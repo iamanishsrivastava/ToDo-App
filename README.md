@@ -19,9 +19,18 @@ This is a simple web-based ToDo App that allows you to manage your tasks in diff
 
 ## Screenshots
 
-![image](https://github.com/iamanishsrivastava/ToDo-App/assets/83644811/7d79aafe-1b61-45e7-95c4-1e90220827f0)
-![image](https://github.com/iamanishsrivastava/ToDo-App/assets/83644811/17590312-2858-4297-a178-2f4b49885d9b)
-![image](https://github.com/iamanishsrivastava/ToDo-App/assets/83644811/3f2279b1-9db6-4f44-9f52-ede4bbecb92d)
+![image](https://github.com/iamanishsrivastava/ToDo-App/assets/83644811/a5648d0a-166a-4e9c-ad20-ca061feed99a)
+![image](https://github.com/iamanishsrivastava/ToDo-App/assets/83644811/59dca83a-1999-43d0-95e1-dd99f0a65ddf)
+![image](https://github.com/iamanishsrivastava/ToDo-App/assets/83644811/16745032-a300-4cbd-81de-d09a6dbc24ff)
+![image](https://github.com/iamanishsrivastava/ToDo-App/assets/83644811/8aa1c7f9-b650-4c5e-b6cf-46c7d0a266c3)
+![image](https://github.com/iamanishsrivastava/ToDo-App/assets/83644811/8b000f29-9732-4d69-bc9c-834922aaa24d)
+![image](https://github.com/iamanishsrivastava/ToDo-App/assets/83644811/27890071-22bf-4f94-aab4-94e483c2aa08)
+![image](https://github.com/iamanishsrivastava/ToDo-App/assets/83644811/e7294c5f-1190-44e0-bec3-4d87cf48b647)
+![image](https://github.com/iamanishsrivastava/ToDo-App/assets/83644811/5cd086d4-2875-4bd3-b6f6-d8314cd6386d)
+![image](https://github.com/iamanishsrivastava/ToDo-App/assets/83644811/e517aa8a-3233-4145-9cde-9b5c41964cce)
+![image](https://github.com/iamanishsrivastava/ToDo-App/assets/83644811/e8ac5013-7123-4969-a57a-40199b317b61)
+![image](https://github.com/iamanishsrivastava/ToDo-App/assets/83644811/78f95252-2e7c-4da4-8072-376862fb4351)
+![image](https://github.com/iamanishsrivastava/ToDo-App/assets/83644811/055ad023-36ff-404a-a2ac-9c469bc289cc)
 
 ## Installation
 
